@@ -2,8 +2,6 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongwon0280)](https://github.com/anuraghazra/github-readme-stats)
-
 # Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
