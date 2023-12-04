@@ -59,7 +59,8 @@
 - 분류 : Google ML Engineer Bootcamp
 - 주제 : Deberatv3와 ML 앙상블을 통한 요약문 점수 예측모델
 - TOOL : ![Apache Kafka](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=&logoColor=white)  ![Apache Kafka](https://img.shields.io/badge/Debertav3-E01F3D?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Light_GBM-0066B1?style=flat-square&logo=&logoColor=white) 
-
+- 성능 : Mcrmse / 0.48544 / 13%
+  
 <br>
 
     
