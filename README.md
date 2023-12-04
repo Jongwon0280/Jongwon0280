@@ -1,11 +1,28 @@
-### 😄
-상명대학교 휴먼지능정보공학과 (2018.2~ )
-
-### ⚡Interested in NLP , DataScience 
+### 😄 Interested in NLP , DataScience 
+<br>
 텍스트 데이터를 활용한 LLM모델 사후학습을 통한 성능개선과 다양한 데이터를 수집하여 문제해결에 관심을 가지고있습니다.
+
+<br>
+<br>
+
+블로그 : [이동하기](https://jongwon0280.github.io/)
 <br>
 
 포트폴리오 :  [이동하기](https://oasis-mouth-2d1.notion.site/f2e98ee4ff9d4ea3aeb0de255ba2f99e)
+
+<br>
+
+### ⚡
+
+**상명대학교 휴먼지능정보공학과 (18.2~ )**
+
+**Lg Aimers 3기 (23.08-23.10)**
+
+**Google ML Engineer Bootcamp (23.07~23.11)**
+
+<br>
+
+
 
 <br>
 
