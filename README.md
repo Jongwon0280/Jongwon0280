@@ -5,10 +5,10 @@
 <br>
 <br>
 
-블로그 : [이동하기](https://jongwon0280.github.io/)
+블로그 : <a href="https://jongwon0280.github.io/"><img src="https://img.shields.io/badge/Github.io-222222?style=flat-square&logo=&logoColor=white"/></a>
 <br>
 
-포트폴리오 :  [이동하기](https://oasis-mouth-2d1.notion.site/f2e98ee4ff9d4ea3aeb0de255ba2f99e)
+포트폴리오 :  <a href="https://jongwon0280.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=&logoColor=white"/></a>
 
 <br>
 
@@ -16,9 +16,11 @@
 
 **상명대학교 휴먼지능정보공학과 (18.2~ )**
 
-**Lg Aimers 3기 (23.08-23.10)**
+![Apache Kafka](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=&logoColor=white)
+**Aimers 3기 (23.08-23.10)**
 
-**Google ML Engineer Bootcamp (23.07~23.11)**
+![Apache Kafka](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=&logoColor=white)
+**ML Engineer Bootcamp (23.07~23.11)**
 
 <br>
 
@@ -42,7 +44,7 @@
 - 분류 : 캡스톤디자인 프로젝트
 - 주제 : 프로필 이미지와 텍스트를 활용하여 음악을 추천하는 어플리케이션
 - 역할 : 이미지 감정분류 및 텍스트 유사도 모델
-- TOOL : Resnet, Kobert, Selenium, AWS Lambda, AWS S3
+- TOOL : ![Apache Kafka](https://img.shields.io/badge/Resnet-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kobert-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=&logoColor=white)
 
 
 <br>
@@ -56,8 +58,7 @@
 
 - 분류 : Google ML Engineer Bootcamp
 - 주제 : Deberatv3와 ML 앙상블을 통한 요약문 점수 예측모델
-- TOOL : Pytorch debertav3-base Lightgbm
-- 성능 : mcrmse : 0.48544 / 13% 
+- TOOL : ![Apache Kafka](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=&logoColor=white)  ![Apache Kafka](https://img.shields.io/badge/Debertav3-E01F3D?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Light_GBM-0066B1?style=flat-square&logo=&logoColor=white) 
 
 <br>
 
@@ -73,7 +74,7 @@
 - 분류 : LG Aimers 온라인해커톤
 - 주제 : L사 생활건강 **2022-01~ 2023-04** 제품별 판매량을 바탕으로, 
 **2022-01-01 ~ 2023-04-04** 의 판매량을 예측하는 시계열 예측모델
-- TOOL : LSTM , Pytroch
+- TOOL :  ![Apache Kafka](https://img.shields.io/badge/LSTM-FFDF18?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=&logoColor=white)
 - 성능 : SFA / 0.5221 / 15%
 
 <br>
@@ -82,12 +83,14 @@
 >
 >기간 :23.06-23.07 개인 
 
- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2F39f46391-919d-48bf-b496-f6c3d3aad1ee%2FUntitled_(3).png?table=block&id=86edfc5b-b153-450a-8e17-ae62998d4912&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=480&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: 40%;">
-  
+      
 - 분류 : 23-1 클라우드 프로그래밍
 - 주제 : N사 요일별웹툰 썸네일 이미지를 활용한 그림체 추출 및 그림체 기반 웹툰추천
-- TOOL : Resnet, Pytorch, Selenium
+- TOOL :  ![Apache Kafka](https://img.shields.io/badge/Resnet-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=&logoColor=white)
+       
+
 
    <br>
    
@@ -100,7 +103,7 @@
  
 - 분류 : 23 AWS / Elastic Cloud 기반 특별과정
 - 주제 : AWS 리소스를 활용한 웹 로그분석시각화 솔루션 ELK스택 구축
-- TOOL : >ELK, FLASK, AWS EC2
+- TOOL :  ![Apache Kafka](https://img.shields.io/badge/ELK-0C2074?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/AWS_EC2-43B02A?style=flat-square&logo=&logoColor=white)
 
 
 
@@ -110,12 +113,12 @@
 ### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)
-
 
 
 
@@ -127,14 +130,12 @@
 
 
 ![Apache Kafka](https://img.shields.io/badge/ApacheKafka-231F20.svg?&style=for-the-badge&logo=ApacheKafka&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![AmazonEC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+![Amazon Lambda](https://img.shields.io/badge/Amazon_Lambda-FF9900.svg?&style=for-the-badge&logo=AWS%20Lambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white)
 
 
-# Blog
-
- <a href="https://jongwon0280.github.io/"><img src="https://img.shields.io/badge/Github Pages-222222?style=flat-square&logo=Github Pages&logoColor=white"/></a>
 
 
 
