@@ -26,8 +26,9 @@
 
 <br>
 
+
 ### 🌱Projects Summary
-자세한 프로젝트 설명은 [프로젝트 요약으로 이동하기]([https://oasis-mouth-2d1.notion.site/f2e98ee4ff9d4ea3aeb0de255ba2f99e](https://oasis-mouth-2d1.notion.site/61b0f6bf8f974b9aa8b1a54f3324c3a3?pvs=4))
+자세한 프로젝트 설명은 [프로젝트 요약으로 이동하기](https://oasis-mouth-2d1.notion.site/61b0f6bf8f974b9aa8b1a54f3324c3a3?pvs=4)
 에서 확인할 수 있습니다.
 
 <br>
