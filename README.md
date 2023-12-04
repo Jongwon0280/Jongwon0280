@@ -8,7 +8,7 @@
 블로그 : <a href="https://jongwon0280.github.io/"><img src="https://img.shields.io/badge/Github.io-222222?style=flat-square&logo=&logoColor=white"/></a>
 <br>
 
-포트폴리오 :  <a href="https://jongwon0280.github.io/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=&logoColor=white"/></a>
+포트폴리오 :  <a href="https://oasis-mouth-2d1.notion.site/f2e98ee4ff9d4ea3aeb0de255ba2f99e"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=&logoColor=white"/></a>
 
 <br>
 
