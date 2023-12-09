@@ -70,7 +70,7 @@
 
 
  <div style="text-align: center;">
-    <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2Fbf1612da-f7b5-4dac-9864-ea1d8f55767b%2FUntitled.png?table=block&id=7682d0ed-cb39-4b0e-89cd-449c38fcfa32&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=2000&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: auto;">
+    <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2Fbf1612da-f7b5-4dac-9864-ea1d8f55767b%2FUntitled.png?table=block&id=d76e46df-77d8-4b0d-a69a-f19f13fe400a&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=2000&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: auto;">
 
 - 분류 : LG Aimers 온라인해커톤
 - 주제 : L사 생활건강 **2022-01~ 2023-04** 제품별 판매량을 바탕으로, 
