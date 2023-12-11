@@ -1,6 +1,6 @@
-### 😄 Interested in NLP , DataScience 
+### 😄 Interested in NLP , DataScience , Recommendation System
 <br>
-텍스트 데이터를 활용한 LLM모델 사후학습을 통한 성능개선과 다양한 데이터를 수집하여 문제해결에 관심을 가지고있습니다.
+LLM모델 사후학습을 통한 성능개선과 다양한 데이터를 활용한 문제해결 및 추천시스템에 대한 관심을 가지고있습니다.
 
 <br>
 <br>
