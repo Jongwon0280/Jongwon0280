@@ -1,6 +1,6 @@
-### 😄 Interested in NLP , DataScience , Recommendation System
+### 😄 Interested in NLP , DataScience 
 <br>
-LLM모델 사후학습을 통한 성능개선과 다양한 데이터를 활용한 문제해결 및 추천시스템에 대한 관심을 가지고있습니다.
+LLM모델 사후학습을 통한 성능개선과 멀티모달 데이터를 활용한 문제해결에 관심을 가지고있습니다.
 
 <br>
 <br>
@@ -54,7 +54,7 @@ LLM모델 사후학습을 통한 성능개선과 다양한 데이터를 활용�
 >
 > 기간 : 23.09-23.11 4인팀
 <div style="text-align: center;">
-    <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2Fd8fec070-e4d6-4ae3-968d-341aeff399bd%2FUntitled.png?table=block&id=53237a26-b10c-47ad-96ce-002cec9d8ca7&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=1710&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: auto;">
+    <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2Fd8fec070-e4d6-4ae3-968d-341aeff399bd%2FUntitled.png?table=block&id=fe79f8fa-7471-4dcb-b797-207ff58bdc33&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=770&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: auto;">
 
 - 분류 : Google ML Engineer Bootcamp
 - 주제 : Deberatv3와 ML 앙상블을 통한 요약문 점수 예측모델
