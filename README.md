@@ -91,7 +91,7 @@
 >기간 :23.06-23.07 개인 
 
 <div style="text-align: center;">
-    <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2F39f46391-919d-48bf-b496-f6c3d3aad1ee%2FUntitled_(3).png?table=block&id=86edfc5b-b153-450a-8e17-ae62998d4912&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=480&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: 40%;">
+    <img src="https://oasis-mouth-2d1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa6bbd52d-4565-47e8-8495-06a47f55eada%2F39f46391-919d-48bf-b496-f6c3d3aad1ee%2FUntitled_(3).png?table=block&id=5f1d6270-e5cb-470d-86f6-3a6bcc277a1e&spaceId=a6bbd52d-4565-47e8-8495-06a47f55eada&width=670&userId=&cache=v2" alt="image" style="display: inline-block; width: 30%; height: 40%;">
       
 - 분류 : 23-1 클라우드 프로그래밍
 - 주제 : N사 요일별웹툰 썸네일 이미지를 활용한 그림체 추출 및 그림체 기반 웹툰추천
