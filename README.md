@@ -1,15 +1,12 @@
-### 😄 Interested in NLP , DataScience 
+### 😄 Interested in ML Engineering , Cloud Infra 
 <br>
 
-텍스트 데이터를 활용하여 
-**사전학습된 BERT를 (문서분류, 문장 간 유사도 등)의 목적에 맞게 미세 튜닝하여 성능을 개선하는 것**
-과
+다양한 서비스의 클라우드 인프라를 구축하고 운영 관리하는 클라우드 인프라 엔지니어로 성장하고 싶습니다.
 <br><br>
 
-**요약, QA와 같은 NLP Task들의 성능 개선**을 하는데 관심을 가지고 있습니다.
 
-<br>
-<br>
+
+
 
 블로그 : <a href="https://jongwon0280.github.io/"><img src="https://img.shields.io/badge/Github.io-222222?style=flat-square&logo=&logoColor=white"/></a>
 <br>
@@ -18,15 +15,24 @@
 
 <br>
 
-### ⚡
+### ⚡School
 
 **상명대학교 휴먼지능정보공학과 (18.2~ )**
+
+<br>
+
+
+
+### ⛩️Activity
 
 ![Apache Kafka](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=&logoColor=white)
 **Aimers 3기 (23.08-23.10)**
 
 ![Apache Kafka](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=&logoColor=white)
 **ML Engineer Bootcamp (23.07~23.11)**
+
+![Apache Kafka](https://img.shields.io/badge/Elastic-A50034?style=flat-square&logo=&logoColor=white)
+**엔지니어 과정 (23.01-23.02)**
 
 <br>
 
@@ -36,7 +42,7 @@
 
 
 ### 👩🏻‍💻Projects Summary
-자세한 프로젝트 설명은 [프로젝트 요약으로 이동하기](https://oasis-mouth-2d1.notion.site/61b0f6bf8f974b9aa8b1a54f3324c3a3?pvs=4)
+자세한 프로젝트 설명은 [프로젝트 요약으로 이동하기](https://www.notion.so/f2e98ee4ff9d4ea3aeb0de255ba2f99e)
 에서 확인할 수 있습니다.
 
 <br>
@@ -49,14 +55,14 @@
  
 - 분류 : 캡스톤디자인 프로젝트
 - 주제 : 프로필 이미지와 텍스트를 활용하여 음악을 추천하는 어플리케이션
-- 역할 : 이미지 감정분류 및 텍스트 유사도 모델
-- TOOL : ![Apache Kafka](https://img.shields.io/badge/Resnet-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kobert-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=&logoColor=white)
+- 역할 : 이미지 감정분류 및 텍스트 유사도 모델 및 클라우드 인프라 구축
+- TOOL : ![Apache Kafka](https://img.shields.io/badge/Resnet-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kobert-4285F4?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/AWS_Lambda-0066B1?style=flat-square&logo=&logoColor=white) 
 
 
 <br>
 
 
-> **학생요약문 점수 예측모델 **
+> **학생요약문 점수 예측모델**
 >
 > 기간 : 23.09-23.11 4인팀
 <div style="text-align: center;">
