@@ -56,7 +56,7 @@
 <br>
 
 
-> **학생요약문 점수 예측모델 (Kaggle)**
+> **학생요약문 점수 예측모델 **
 >
 > 기간 : 23.09-23.11 4인팀
 <div style="text-align: center;">
@@ -136,7 +136,7 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?&style=for-the-badge&logo=Kibana&logoColor=white)
 
 
-![Apache Kafka](https://img.shields.io/badge/ApacheKafka-231F20.svg?&style=for-the-badge&logo=ApacheKafka&logoColor=white)
+
 ![AmazonEC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 ![Amazon Lambda](https://img.shields.io/badge/Amazon_Lambda-FF9900.svg?&style=for-the-badge&logo=AWS%20Lambda&logoColor=white)
