@@ -1,8 +1,6 @@
-### 😄 Interested in ML Engineering , Cloud Infra 
+### 😄 Interested in ML Engineering
 <br>
 
-다양한 서비스의 클라우드 인프라를 구축하고 운영 관리하는 클라우드 인프라 엔지니어로 성장하고 싶습니다.
-<br><br>
 
 
 
